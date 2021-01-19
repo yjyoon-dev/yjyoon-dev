@@ -7,7 +7,7 @@
 
 - 📝 I regularly write posts on [**My GitHub Blog**](https://yjyoon-dev.github.io)
 
-- 📫 How to reach me **yjyoon.dev@gmail.com**
+- 📫 How to reach me yjyoon.dev@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
