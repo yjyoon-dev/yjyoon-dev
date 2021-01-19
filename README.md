@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin for Android**
 
-- 📝 I regularly write articles on [https://yjyoon-dev.github.io](https://yjyoon-dev.github.io)
+- 📝 I regularly write posts on [My GitHub Blog](https://yjyoon-dev.github.io)
 
 - 📫 How to reach me **yjyoon.dev@gmail.com**
 
