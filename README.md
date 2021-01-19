@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/15012296" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15012296" height="30" width="40" /></a>
 <a href="https://fb.com/dsbduwns414" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dsbduwns414" height="30" width="40" /></a>
 <a href="https://instagram.com/yjyoon.dev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yjyoon.dev" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yjyoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="yjyoon" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15012296" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="15012296" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Skills:</h3>
