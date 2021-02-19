@@ -3,7 +3,7 @@
 
 - 🧑‍💻 I’m currently developing [Enphago - Korean word chaining game AI Android app](https://github.com/yjyoon-dev/enphago-android)
 
-- 📚 I’m currently learning **Kotlin for Android**
+- 📚 I’m learning **Kotlin for Android** and **Flutter"
 
 - 📝 I regularly write posts on [**My GitHub Blog**](https://yjyoon-dev.github.io)
 
