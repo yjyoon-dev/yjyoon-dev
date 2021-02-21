@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeojun Yoon</h1>
-<h3 align="center">A (future) android application developer from South Korea</h3>
+<h3 align="center">A mobile application developer from South Korea</h3>
 
 - 🧑‍💻 I’m currently developing [Enphago - Korean word chaining game AI Android app](https://github.com/yjyoon-dev/enphago-android)
 
