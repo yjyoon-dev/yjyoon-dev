@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeojun Yoon</h1>
 <h3 align="center">A future developer from South Korea</h3>
 
-- 🧑‍💻 I’m currently join **SW Maestro 12nd**
+- 🧑‍💻 I’m currently joining **SW Maestro 12nd**
 
 - 📚 I’m learning **Back-end** and **AI**
 
