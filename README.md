@@ -8,7 +8,7 @@
 
 - 🧑‍💻 I’m currently joining in **SW Maestro 12th**
 
-- 📚 Now I’m learning **Front-End** and **Machine Learning**
+- 📚 Now I’m learning **Front-End** with **React.js**
 
 - 📝 I regularly write posts on [**My GitHub Blog**](https://yjyoon-dev.github.io)
 
