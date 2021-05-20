@@ -10,9 +10,7 @@
   
   📚 Now I’m learning **Front-End** with **React.js**
 
-  📝 I regularly write posts on [**My GitHub Blog**](https://yjyoon-dev.github.io)
-
-  📫 How to reach me yjyoon.dev@gmail.com
+  📝 I regularly write posts on <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/>
   
@@ -36,10 +34,10 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/></a>&nbsp
 </p>
@@ -52,10 +50,10 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsbduwns414)](https:/
 <h3>Contact</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/yjyoon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/yjyoon.dev-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/yjyoon.dev-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/yyj414-FFCD00?style=flat-square&logo=kakaotalk&logoColor=white"/></a>&nbsp
 </p>
 
 <br/>
