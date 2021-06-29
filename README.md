@@ -51,8 +51,8 @@ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsbduwns414)](https:/
 
 <p>
   <img src="https://img.shields.io/badge/yjyoon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/yjyoon.dev-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/yjyoon.dev-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/yjyoon.geek-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/yjyoon.geek-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
 </p>
 
 <br/>
