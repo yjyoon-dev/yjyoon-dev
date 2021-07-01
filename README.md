@@ -8,7 +8,7 @@
   
   💻 I’m currently joining in **SW Maestro 12th**
   
-  📚 Now I’m learning **Front-End & Mobile** with **React.js** & **Flutter**
+  📚 Now I’m learning **Front-End & Mobile** with **React.js & Flutter**
 
   📝 I regularly write posts on <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
