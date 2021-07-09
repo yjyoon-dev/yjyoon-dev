@@ -8,7 +8,7 @@
   
   💻 I’m currently joining in **SW Maestro 12th**
   
-  📚 Now I’m learning **Front-End & Mobile** with **React.js & Flutter**
+  📚 Now I’m learning **Mobile & Web** with **Flutter**
 
   📝 I regularly write posts on <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
@@ -27,15 +27,11 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white"/></a>&nbsp
 </p>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
