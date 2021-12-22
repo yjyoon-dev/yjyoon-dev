@@ -6,9 +6,9 @@
   
   <h3>Introduction</h3>
   
-  💻 I’m currently joining in **SW Maestro 12th**
+  💻 Now I’m developing **Coryn** application back-end server.
   
-  📚 Now I’m developing **Mobile App & Web Service** with **Flutter**
+  📚 Now I’m studying **Spring Boot** & **Database**
 
   📝 I regularly write posts on <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
