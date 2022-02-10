@@ -8,7 +8,7 @@
   
   💻 Now I’m developing back-end server of **Coverist** service.
   
-  📚 Now I’m studying **Android**
+  📚 Now I’m studying **Android** deeply.
 
   📝 I regularly write posts on <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
