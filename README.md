@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yeojun Yoon</h1>
+# YJYOON
 
-<br/>
+### Intro
+  
+❤ I love **developing** services that many people use. 
+  
+📚 Now I am trying to become an **Android** Specialist.
 
-<div align="center">
-  
-  <h3>Introduction</h3>
-  
-  💻 Now I’m developing back-end server of **Coverist** service.
-  
-  📚 Now I’m studying **Android** deeply.
+📝I like to write technical **posts** on my <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-  📝 I regularly write posts on <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<br>
 
-<br/>
-  
-<h3>Tech Stack</h3>
+### Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
@@ -40,20 +37,20 @@
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsbduwns414)](https://solved.ac/dsbduwns414)
 
-<img width=20% src="https://user-images.githubusercontent.com/72238126/149585100-ef4c4f1c-303e-421b-9797-828f0d0494a3.png">
+<br>
 
-<br/>
+### SW Certificate
+- AWS Certified Solutions Architect - Associate
+- TOPCIT Level 3
+
+<br>
 
 <h3>Contact</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/yjyoon--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/yjyoon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/yjyoon.geek-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/yjyoon.geek-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>&nbsp
 </p>
 
-<br/>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyjyoon-dev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
+---
