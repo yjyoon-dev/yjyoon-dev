@@ -41,7 +41,7 @@
 
 ### SW Certificate
 - **AWS** Certified Solutions Architect - Associate
-- **TOPCIT** Level 3
+- **TOPCIT** Level 3 - Score 543
 
 <br>
 
