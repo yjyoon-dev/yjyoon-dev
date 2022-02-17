@@ -40,8 +40,8 @@
 <br>
 
 ### SW Certificate
-- AWS Certified Solutions Architect - Associate
-- TOPCIT Level 3
+- **AWS** Certified Solutions Architect - Associate
+- **TOPCIT** Level 3
 
 <br>
 
