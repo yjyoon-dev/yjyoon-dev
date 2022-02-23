@@ -1,4 +1,4 @@
-# YJYOON  developer
+# YJYOON Android developer
 
 ### Intro
   
