@@ -1,4 +1,4 @@
-# YJYOON Full-stack developer
+# YJYOON  developer
 
 ### Intro
   
