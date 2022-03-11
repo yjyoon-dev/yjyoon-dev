@@ -12,8 +12,8 @@
 
 ### Tech Stack
 <p>
-  <img alt="Python" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
-  <img alt="Python" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img alt="Android" src ="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/>
+  <img alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-B07219?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-F8981D?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
 </p>
