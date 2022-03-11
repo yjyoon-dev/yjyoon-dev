@@ -25,12 +25,12 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Dart-01B1A8?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-F8981D?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-E34F26?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-F34B7D?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/></a>&nbsp
 </p>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsbduwns414)](https://solved.ac/dsbduwns414)
