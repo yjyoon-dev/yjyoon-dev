@@ -1,10 +1,10 @@
-# YJYOON Android developer
+# Kotlin Developer
 
 ### Intro
   
 ❤ I love **developing** services that many people use. 
-  
-📚 Now I am trying to become an **Android** Specialist.
+
+💻 I'm really interested in **Kotlin** and do full stack development with it.
 
 📝I like to write technical **posts** on my <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
