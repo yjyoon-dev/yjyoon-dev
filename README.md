@@ -4,7 +4,7 @@
   
 ❤ I love **developing** services that many people use. 
 
-💻 I'm really interested in **Android**!
+💻 I'm really interested in **Android** and **Architecture**!
 
 📝I like to write technical **posts** on my <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
