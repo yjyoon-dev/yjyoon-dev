@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
 </p>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsbduwns414)](https://solved.ac/dsbduwns414)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=dsbduwns414)](https://solved.ac/dsbduwns414)
 
 <br>
 
