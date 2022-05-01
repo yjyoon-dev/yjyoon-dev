@@ -37,7 +37,7 @@
 <br>
 
 ### More Info
-https://yjyoon-dev.github.io/about/
+https://yjyoon-dev.github.io/about
 
 <br>
 
