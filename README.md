@@ -36,7 +36,7 @@
 
 <br>
 
-### More Info
+### Portfolio
 https://yjyoon-dev.github.io/about
 
 <br>
