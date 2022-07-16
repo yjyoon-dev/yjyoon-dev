@@ -1,5 +1,3 @@
-# Android Developer
-
 ### Intro
   
 ❤ I love **developing** services that many people use. 
