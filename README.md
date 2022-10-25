@@ -38,12 +38,6 @@
 
 <br>
 
-### CV
-[YJYOON's Curriculum Vitae](https://github.com/yjyoon-dev/yjyoon-dev/files/9578773/CV.pdf)
-
-
-<br>
-
 <h3>Contact</h3>
 
 <p>
