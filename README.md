@@ -38,6 +38,12 @@
 
 <br>
 
+<h3>More About</h3>
+Also you can check my <b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv-221029.pdf" target="_blank">here!</a></b>
+
+<br>
+<br>
+
 <h3>Contact</h3>
 
 <p>
