@@ -39,7 +39,7 @@
 <br>
 
 <h3>More About</h3>
-Also you can check my 📃<b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv-221117.pdf" target="_blank">here!</a></b>
+Also you can check my 📃<b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv_221117.pdf" target="_blank">here!</a></b>
 
 <br>
 <br>
