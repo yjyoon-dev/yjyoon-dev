@@ -1,6 +1,6 @@
 ### Intro
   
-❤ I love **developing software**!
+❤ I'm in between jobs.
 
 💻 I'm specially interested in **Kotlin** and **Android**.
 
