@@ -38,10 +38,20 @@
 
 <br>
 
-<h3>More About</h3>
-Also you can check my 📃<b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv_230105.pdf" target="_blank">here!</a></b>
+### Activities
+- Nexters 22nd Android
+- YAPP 20th Android
+- SW 마에스트로 12th
 
 <br>
+
+### Rewards
+- 공개SW 개발자대회 금상
+- SW중심대학 공동해커톤 우수상
+- 캠퍼스타운 창업경진대회 대상
+
+Also you can check my 📃<b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv_230105.pdf" target="_blank">here!</a></b>
+
 <br>
 
 <h3>Contact</h3>
