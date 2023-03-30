@@ -1,6 +1,6 @@
 ### Intro
   
-❤ I'm in between jobs.
+❤ I'm Software Developer
 
 💻 I'm specially interested in **Kotlin** and **Android**.
 
