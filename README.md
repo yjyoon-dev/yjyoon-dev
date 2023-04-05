@@ -50,7 +50,7 @@
 - 공개SW 개발자대회 금상
 - SW중심대학 공동해커톤 우수상
 - 캠퍼스타운 창업경진대회 대상
-- SW마에스트로 12기 해커톤 최우수상
+- SW마에스트로 해커톤 최우수상
 
 Also you can check my 📃<b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv_230105.pdf" target="_blank">here!</a></b>
 
