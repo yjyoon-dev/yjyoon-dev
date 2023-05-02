@@ -1,8 +1,8 @@
 ### Intro
   
-❤ I'm Software Developer
+❤ I love **Kotlin** and **Android**!
 
-💻 I'm specially interested in **Kotlin** and **Android**.
+💻 Now I'm specially interested in **Kotlin multiplatform**.
 
 📝I regularly post on my <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
@@ -51,8 +51,6 @@
 - SW중심대학 공동해커톤 우수상
 - 캠퍼스타운 창업경진대회 대상
 - SW마에스트로 해커톤 최우수상
-
-Also you can check my 📃<b>CV <a href="https://github.com/yjyoon-dev/CV/blob/main/cv_230105.pdf" target="_blank">here!</a></b>
 
 <br>
 
