@@ -40,9 +40,11 @@
 
 ### Activities
 - SW 마에스트로 12th
-- YAPP 20th Android
-- Nexters 22nd, 23rd Android
-- Depromeet 13th Android
+- SW 마이스터고 연합해커톤 기술 멘토
+- 각종 IT 연합 동아리 Android 파트
+  - YAPP 20th
+  - Nexters 22nd, 23rd
+  - Depromeet 13th
 
 <br>
 
