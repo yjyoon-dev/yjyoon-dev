@@ -41,7 +41,7 @@
 ### Activities
 - SW 마에스트로 12th
 - YAPP 20th Android
-- Nexters 22nd Android
+- Nexters 22nd, 23rd Android
 - Depromeet 13th Android
 
 <br>
