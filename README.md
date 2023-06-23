@@ -2,7 +2,7 @@
   
 ❤ I love **Kotlin** and **Android**!
 
-💻 Now I'm specially interested in **Kotlin multiplatform**.
+💻 Now I'm specially interested in **Kotlin Multiplatform**.
 
 📝I regularly post on my <a href="https://yjyoon-dev.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
