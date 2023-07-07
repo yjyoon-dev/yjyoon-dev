@@ -12,8 +12,8 @@ I am an Software Developer interested in
 
 And my career so far
 
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/0/1659403404534?e=1697068800&v=beta&t=lmRERVcZjGtbjpsIWX_A5k9TgF4NdiMUWrnRBFEHxUA"> <b>Naver</b> - Android Developer *(2024.02 ~ )*
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_200_200/0/1669098979959?e=1697068800&v=beta&t=hmvMfp7zpLmoEc_hpHPvZMYRZsTY0uI4fxQ5SBZ0JNk"> <b>KakaoBrain</b> - Android Developer Intern *(2023.06 ~ 2023.08)*</img></p>
+- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/0/1659403404534?e=1697068800&v=beta&t=lmRERVcZjGtbjpsIWX_A5k9TgF4NdiMUWrnRBFEHxUA"> <b>Naver</b> - Android Developer <i>(2024.02 ~ )</i>
+- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_200_200/0/1669098979959?e=1697068800&v=beta&t=hmvMfp7zpLmoEc_hpHPvZMYRZsTY0uI4fxQ5SBZ0JNk"> <b>KakaoBrain</b> - Android Developer Intern <i>(2023.06 ~ 2023.08)</i></img></p>
 
 <br>
 
