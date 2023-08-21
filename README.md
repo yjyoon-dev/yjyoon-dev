@@ -17,6 +17,10 @@ And my career so far
 
 <br>
 
+Also you can check my 📝profile **[here!](https://blog.yjyoon.dev/about/)**
+
+<br>
+
 Please contact me through
 
 <p>
