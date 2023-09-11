@@ -14,6 +14,7 @@ And my career so far
 
 - <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/0/1659403404534?e=1697068800&v=beta&t=lmRERVcZjGtbjpsIWX_A5k9TgF4NdiMUWrnRBFEHxUA"> <b>NAVER</b> - Android Developer <i>(2023.12 ~ )</i>
 - <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_200_200/0/1669098979959?e=1697068800&v=beta&t=hmvMfp7zpLmoEc_hpHPvZMYRZsTY0uI4fxQ5SBZ0JNk"> <b>KakaoBrain</b> - Android Developer Intern <i>(2023.06 ~ 2023.08)</i></img></p>
+- <p> <img width="16" src="https://avatars.githubusercontent.com/u/112914844?s=400&u=f70138ccecc84db83a675a3612d962df2366a5c8&v=4"> <b>NeuroSky, Inc.</b> - Android Developer Intern <i>(2022.09 ~ 2022.12)</i></img></p>
 
 <br>
 
