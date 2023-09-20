@@ -26,7 +26,7 @@ Please contact me through
 
 <p>
   <img src="https://img.shields.io/badge/yjyoon--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/yjyoon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/me@yjyoon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/yjyo__on-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
 
