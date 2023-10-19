@@ -12,9 +12,9 @@ I'm a software developer interested in
 
 And my career so far
 
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/0/1659403404534?e=1704931200&v=beta&t=cy0U7G5sjcHozaBv5LGZJpxQIhJ5O3CqzJqgmj3Puso"> <b>NAVER</b> - Android Developer <i>(2023.12 ~ )</i>
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_200_200/0/1669098979959?e=1704931200&v=beta&t=hMd1-j0S73Vp1WQbj2x3xcf4pP99BsLfb6l1_o_6ydY"> <b>KakaoBrain</b> - Android Developer Intern <i>(2023.06 ~ 2023.08)</i></img></p>
-- <p> <img width="16" src="https://avatars.githubusercontent.com/u/112914844?s=400&u=f70138ccecc84db83a675a3612d962df2366a5c8&v=4"> <b>NeuroSky, Inc.</b> - Android Developer Intern <i>(2022.09 ~ 2022.12)</i></img></p>
+- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/0/1659403404534?e=1704931200&v=beta&t=cy0U7G5sjcHozaBv5LGZJpxQIhJ5O3CqzJqgmj3Puso"> <b>NAVER</b> - Android Developer <i><sub>(2023.12 ~ current)</sub></i>
+- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_200_200/0/1669098979959?e=1704931200&v=beta&t=hMd1-j0S73Vp1WQbj2x3xcf4pP99BsLfb6l1_o_6ydY"> <b>KakaoBrain</b> - Android Developer Intern <i><sub>(2023.06 ~ 2023.08)</sub></i></img></p>
+- <p> <img width="16" src="https://avatars.githubusercontent.com/u/112914844?s=400&u=f70138ccecc84db83a675a3612d962df2366a5c8&v=4"> <b>NeuroSky, Inc.</b> - Android Developer Intern <i><sub>(2022.09 ~ 2022.12)</sub></i></img></p>
 
 <br>
 
