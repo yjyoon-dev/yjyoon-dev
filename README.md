@@ -29,5 +29,3 @@ Please contact me through
   <img src="https://img.shields.io/badge/me@yjyoon.dev-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/yjyo__on-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>&nbsp
 </p>
-
-<hr>
