@@ -12,8 +12,8 @@ I'm a software developer interested in
 
 And my career so far
 
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQECT6Sd8Jz7Ug/company-logo_100_100/0/1659403404968/naver_logo?e=1729123200&v=beta&t=0A6xf_Cehvd__IRJslxBuGnvxJDsjfHYxRwmEafMMaE"> <b>NAVER</b> - Android Developer <i><sub>(2023.12 ~ current)</sub></i>
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_100_100/0/1669098980285/kakaobrain_logo?e=1729123200&v=beta&t=tJAmh9nLtyxPO8UevnZigaFjeums3j0un54wTDSX2OA"> <b>KakaoBrain</b> - Android Developer Intern <i><sub>(2023.06 ~ 2023.08)</sub></i></img></p>
+- <p> <img width="16" src="https://media.licdn.com/dms/image/v2/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/company-logo_200_200/0/1659403404968/naver_logo?e=1737590400&v=beta&t=USxHdYMp0BD55vAuAmOEFCZRmKvx1Oo7DQdGCNkPeus"> <b>NAVER</b> - Android Developer <i><sub>(2023.12 ~ current)</sub></i>
+- <p> <img width="16" src="https://media.licdn.com/dms/image/v2/C560BAQHXRQRe-Wub9A/company-logo_200_200/company-logo_200_200/0/1669098980285/kakaobrain_logo?e=1737590400&v=beta&t=qiYoO2aDvZw9TiMu_IWbVDVlAiNy8V2HOIhYNB3Be_o"> <b>KakaoBrain</b> - Android Developer Intern <i><sub>(2023.06 ~ 2023.08)</sub></i></img></p>
 - <p> <img width="16" src="https://avatars.githubusercontent.com/u/112914844?s=400&u=f70138ccecc84db83a675a3612d962df2366a5c8&v=4"> <b>NeuroSky</b> - Android Developer Intern <i><sub>(2022.09 ~ 2022.12)</sub></i></img></p>
 
 <br>
