@@ -1,4 +1,4 @@
-# 🗨️ Hello, yjyoon!
+# 🍀 Hello, yjyoon!
 I'm a software developer interested in
 
 <p>
