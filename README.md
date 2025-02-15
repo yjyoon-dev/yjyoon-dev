@@ -18,7 +18,7 @@ And my career so far
 
 <br>
 
-Also you can check my detail from my [online porfolio](https://yjyoon.dev)✨
+Also you can check my detail from my [online porfolio](https://yjyoon.dev)✨ created with Kotlin Multiplatform!
 
 <br>
 
