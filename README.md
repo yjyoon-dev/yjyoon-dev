@@ -15,14 +15,3 @@ And my career so far
 <p> <img width="24" src="https://media.licdn.com/dms/image/v2/C560BAQECT6Sd8Jz7Ug/company-logo_200_200/company-logo_200_200/0/1659403404968/naver_logo?e=1772064000&v=beta&t=o5CxqTlrL6IgIvdnx_Ityw78jQPL9z2DjrRyHd8VTtk"> <b>NAVER</b> - Android Developer <i><sub>(2023.12 ~ current)</sub></i>
 <p> <img width="24" src="https://media.licdn.com/dms/image/v2/C560BAQHXRQRe-Wub9A/company-logo_200_200/company-logo_200_200/0/1669098980285/kakaobrain_logo?e=2147483647&v=beta&t=M2H-uKfDzQBf-Rexx7f8crXFPzd9Sw0UYPwg3VAKk2A"> <b>KakaoBrain</b> - Android Developer Intern <i><sub>(2023.06 ~ 2023.08)</sub></i></img></p>
 <p> <img width="24" src="https://avatars.githubusercontent.com/u/112914844?s=400&u=f70138ccecc84db83a675a3612d962df2366a5c8&v=4"> <b>NeuroSky</b> - Android Developer Intern <i><sub>(2022.09 ~ 2022.12)</sub></i></img></p>
-
-<br>
-
-Also you can check my detail from my [online porfolio](https://yjyoon.dev)✨ created with Kotlin Multiplatform!
-
-<br>
-
-Please contact me through
-
-- [LinkedIn](https://www.linkedin.com/in/yjyoon-dev)
-- me@yjyoon.dev
